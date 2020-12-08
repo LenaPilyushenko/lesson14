@@ -75,3 +75,4 @@ addEventListener('keydown', moveMyElem);
 document.addEventListener("DOMContentLoaded", function(event) {
     myElem.elemCreate();
 });
+
